@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dimitri-Y.github.io/cinemania-group-11",
+  "homepage": "https://GoitStudentsWorks.github.io/js-78-Dimitri-Y",
   "scripts": {
     "start": "parcel src/*.html ",
-    "build": "parcel build src/*html --public-url /cinemania-group-11/ "
+    "build": "parcel build src/*html --public-url /js-78-Dimitri-Y/ "
   },
   "repository": {
     "type": "git",
